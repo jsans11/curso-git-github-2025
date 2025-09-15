@@ -1,8 +1,8 @@
-git init .          -> cria um repo git na pasta atual
-git status          -> mostra o status do trabalho
-git add -> adiciona arquivo para ser comitado
-git commit -m -> faz commit de arquivo que estava para ser commitado
-git log -> mostra o historico de commit
+git init . 		-> Cria um repo git na pasta atual
+git status 		-> Mostra o status do trabalho
+git add 		-> Adiciona arquivo para ser comitado
+git commit -m 		-> Faz commit de arquivo que estava para ser commitado
+git log 		-> Mostra o historico de commit
 
 ## FLUXO DE TRABALHO
 
